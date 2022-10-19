@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/nirmalganesh11"><img src="https://api.daily.dev/devcards/2af5e33c9cfa419daf866a0e3caeeb56.png?r=rmp" width="400" alt="Nirmalganesh's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Nirmal Ganesh Yarramaneni</h1>
 <h3 align="center">A passionate full stack developer from india</h3>
 
