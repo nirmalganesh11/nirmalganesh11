@@ -1,8 +1,8 @@
 <a href="https://app.daily.dev/nirmalganesh11"><img src="https://api.daily.dev/devcards/2af5e33c9cfa419daf866a0e3caeeb56.png?r=rmp" width="400" alt="Nirmalganesh's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Nirmal Ganesh Yarramaneni</h1>
-<h3 align="center">A passionate full stack developer from india</h3>
+<h3 align="center">A passionate Java full stack developer from india</h3>
 
-- 🔭 I’m currently working on **speech diarisation project**
+- 🔭 I’m currently working on **GWT ,Xml Spring Based Projects**
 
 - 🌱 I’m currently learning **Java full stack Framework**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nirmalganesh11](https://github.com/nirmalganesh11)
 
-- 💬 Ask me about **REACT AWS NODEJS**
+- 💬 Ask me about **REACT AWS NODEJS Java**
 
 - 📫 How to reach me **nirmalganesh11@gmail.com**
 
